@@ -4,7 +4,6 @@ public class Thermostat {
     private double temperatureCelsius;
 
     public Thermostat(double temp) {
-        // Use the setter in the constructor to enforce rules from the start
         setTemperatureCelsius(temp);
     }
 
@@ -24,10 +23,10 @@ public class Thermostat {
         Thermostat stat = new Thermostat(22.5);
         System.out.println("Initial temp: " + stat.getTemperatureCelsius());
 
-        stat.setTemperatureCelsius(5.0); // Try to set an invalid temp
+        stat.setTemperatureCelsius(5.0);
         System.out.println("Temp after invalid change: " + stat.getTemperatureCelsius());
 
-        stat.setTemperatureCelsius(25.0); // Set a valid temp
+        stat.setTemperatureCelsius(25.0);
         System.out.println("Temp after valid change: " + stat.getTemperatureCelsius());
     }
 }

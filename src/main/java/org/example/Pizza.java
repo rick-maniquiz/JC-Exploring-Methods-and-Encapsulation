@@ -2,7 +2,7 @@ package org.example;
 
 public class Pizza {
     private String toppings;
-    private int size; // in inches
+    private int size;
 
     public Pizza() {
         this.toppings = "Cheese";
@@ -11,7 +11,7 @@ public class Pizza {
     }
 
     public Pizza(String toppings) {
-        this(); // Calls the no-argument constructor first
+        this();
         this.toppings = toppings;
         System.out.println("Pizza with custom toppings created.");
     }

@@ -9,7 +9,6 @@ public class Account {
     }
 
     public void displayAccountDetails() {
-        // We can call the private method from within the class
         System.out.println(getDetails());
     }
 }
