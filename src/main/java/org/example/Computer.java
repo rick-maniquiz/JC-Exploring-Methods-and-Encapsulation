@@ -33,8 +33,8 @@ public class Computer {
     }
 
     public static void main(String... args){
-        (new Computer()).display();
-        (new Computer("Dell")).display();
+        new Computer().display();
+        new Computer("Dell").display();
         new Computer("Apple", 16).display();
     }
 }

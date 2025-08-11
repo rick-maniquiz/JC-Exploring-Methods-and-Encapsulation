@@ -478,9 +478,17 @@ class Converter {
         return fahrenheit;
     }
 
+    static double celsiusToFahrenheit(double temp, boolean inverse){
+        if (inverse) return fahrenheitToCelsius(temp);
+        double fahrenheit = (temp * 9.0/5.0) + 32;
+        System.out.println(temp + " degrees C is " + fahrenheit + " degrees F.");
+
+        return fahrenheit;
+    }
+
     static double fahrenheitToCelsius(double fahrenheit){
         double celsius = (fahrenheit - 32) * 5.0/9.0;
-        System.out.println(celsius + " degrees F is " + fahrenheit + " degrees C.");
+        System.out.println(fahrenheit + " degrees F is " + celsius + " degrees C.");
 
         return celsius;
     }
@@ -607,8 +615,8 @@ public class Computer {
     }
 
     public static void main(String... args){
-        (new Computer()).display();
-        (new Computer("Dell")).display();
+        new Computer().display();
+        new Computer("Dell").display();
         new Computer("Apple", 16).display();
     }
 }

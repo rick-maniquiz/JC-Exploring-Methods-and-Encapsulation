@@ -8,9 +8,17 @@ class Converter {
         return fahrenheit;
     }
 
+    static double celsiusToFahrenheit(double temp, boolean inverse){
+        if (inverse) return fahrenheitToCelsius(temp);
+        double fahrenheit = (temp * 9.0/5.0) + 32;
+        System.out.println(temp + " degrees C is " + fahrenheit + " degrees F.");
+
+        return fahrenheit;
+    }
+
     static double fahrenheitToCelsius(double fahrenheit){
         double celsius = (fahrenheit - 32) * 5.0/9.0;
-        System.out.println(celsius + " degrees F is " + fahrenheit + " degrees C.");
+        System.out.println(fahrenheit + " degrees F is " + celsius + " degrees C.");
 
         return celsius;
     }
@@ -37,7 +45,8 @@ public class Utility {
         System.out.println("");
         {
             double converted = Converter.celsiusToFahrenheit(25);
-            converted = Converter.fahrenheitToCelsius(77);
+            converted = Converter.celsiusToFahrenheit(77, true);
+//            converted = Converter.fahrenheitToCelsius(77);
         }
     }
 }
