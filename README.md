@@ -496,7 +496,7 @@ class Converter {
 ```
 **Code Output**
 
-<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/6-mini.png"/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e3e7d60f5cd0e9a451efce8fb9550430edbd096f/screenshots/6-mini-new.png"/>
 -----
 
 ## 7. Constructors and Constructor Overloading
