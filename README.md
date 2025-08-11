@@ -84,6 +84,7 @@ public class Car {
 
 ```
 **Code Output**
+
 <img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/1-mini.png"/>
 -----
 
@@ -162,6 +163,7 @@ public class ParameterPassing {
 
 ```
 **Code Output**
+
 <img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/2-mini.png"/>
 -----
 
@@ -252,6 +254,7 @@ public class VarargsExample {
 
 ```
 **Code Output**
+
 <img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/3-mini.png"/>
 -----
 
@@ -295,15 +298,12 @@ public class Bank {
 
 **1. Prediction**
 
-What do you think will be the output?
-
 ```
 Alice has a balance of $1200.50
 ```
 
 **2. Observation**
 
-Now, run the code. What is the actual output?
 <img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/4.png"/>
 
 ### Mini Challenge
@@ -340,6 +340,7 @@ public class SmartDoor {
 
 ```
 **Code Output**
+
 <img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/4-mini.png"/>
 -----
 
@@ -403,6 +404,7 @@ class Converter {
 }
 ```
 **Code Output**
+
 <img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/5-mini.png"/>
 -----
 
@@ -485,6 +487,7 @@ class Converter {
 }
 ```
 **Code Output**
+
 <img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/6-mini.png"/>
 -----
 
@@ -612,6 +615,7 @@ public class Computer {
 
 ```
 **Code Output**
+
 <img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/7-mini.png"/>
 -----
 
@@ -730,4 +734,5 @@ public class User {
 ```
 
 **Code Output**
+
 <img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/8-mini.png"/>
