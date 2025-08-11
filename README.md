@@ -51,7 +51,7 @@ The car is moving at 60 mph.
 
 **2. Observation**
 
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/1.png"/>
 
 ### Mini Challenge
 
@@ -84,7 +84,7 @@ public class Car {
 
 ```
 **Code Output**
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/1-mini.png"/>
 -----
 
 ## 2. Passing Parameters: Primitives vs. Objects
@@ -119,7 +119,7 @@ After method call: 50
 
 **2. Observation**
 
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/2.png"/>
 
 ### Mini Challenge
 
@@ -162,7 +162,7 @@ public class ParameterPassing {
 
 ```
 **Code Output**
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/2-mini.png"/>
 -----
 
 ## 3. Using Varargs
@@ -205,7 +205,7 @@ Number of messages: 0
 
 **2. Observation**
 
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/3.png"/>
 
 ### Mini Challenge
 
@@ -252,7 +252,7 @@ public class VarargsExample {
 
 ```
 **Code Output**
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/3-mini.png"/>
 -----
 
 ## 4. Access Specifiers
@@ -304,7 +304,7 @@ Alice has a balance of $1200.50
 **2. Observation**
 
 Now, run the code. What is the actual output?
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/4.png"/>
 
 ### Mini Challenge
 
@@ -340,7 +340,7 @@ public class SmartDoor {
 
 ```
 **Code Output**
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/4-mini.png"/>
 -----
 
 ## 5. Static Methods and Variables
@@ -378,7 +378,7 @@ Instance ID: ID-12345
 
 **2. Observation**
 
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/5.png"/>
 
 ### Mini Challenge
 
@@ -403,7 +403,7 @@ class Converter {
 }
 ```
 **Code Output**
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/5-mini.png"/>
 -----
 
 ## 6. Method Overloading
@@ -452,7 +452,7 @@ Goodbye
 
 **2. Observation**
 
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/6.png"/>
 
 ### Mini Challenge
 
@@ -485,7 +485,7 @@ class Converter {
 }
 ```
 **Code Output**
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/6-mini.png"/>
 -----
 
 ## 7. Constructors and Constructor Overloading
@@ -548,7 +548,7 @@ Size: 16 inches, Toppings: Mushroom and Onion
 
 **2. Observation**
 
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/7.png"/>
 
 ### Mini Challenge
 
@@ -612,7 +612,7 @@ public class Computer {
 
 ```
 **Code Output**
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/7-mini.png"/>
 -----
 
 ## 8. Encapsulation
@@ -666,7 +666,7 @@ Temp after valid change: 25.0
 
 **2. Observation**
 
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/8.png"/>
 
 ### Mini Challenge
 
@@ -730,4 +730,4 @@ public class User {
 ```
 
 **Code Output**
-<img src=""/>
+<img src="https://github.com/rick-maniquiz/JC-Exploring-Methods-and-Encapsulation/blob/e768c58cf36bb344676742a261b1ff3762bd7eab/screenshots/8-mini.png"/>
